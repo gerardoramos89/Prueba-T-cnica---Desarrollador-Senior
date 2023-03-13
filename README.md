@@ -21,6 +21,7 @@ Primero para ejecutar las pruebas de Integración en UnitTesting.Tests, y obteng
 Luego Ejecutar pruebas en CustomerValidatorShould 
  
 ![image](https://user-images.githubusercontent.com/57040617/224812916-aa040deb-4231-4d71-b053-767d5cd54f98.png)
+![image](https://user-images.githubusercontent.com/57040617/224820367-8d6d0543-cf30-478e-9e2e-0094e3c8bb32.png)
 
 
 Si la instancia SQL Responde con la cadena de conexión que cambiaron y la base de datos de prueba se puede ver las pruebas ejecutadas y correctas como la imagen siguiente:

@@ -59,6 +59,8 @@ Es solo activarlo para la pruebas y se podría evitar el error visualizando lo s
 
 Me falto terminar el funcionamiento del formulario de New Order, solo esta la maquetación como se ve en la imagen siguiente:
  
+ ![image](https://user-images.githubusercontent.com/57040617/224821593-f5dfa357-f7ee-4bb1-a40c-6f2a38b167c7.png)
+
      
 5. Graficando con D3
 

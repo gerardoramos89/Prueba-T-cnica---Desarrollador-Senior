@@ -21,12 +21,10 @@ Primero para ejecutar las pruebas de Integración en UnitTesting.Tests, y obteng
 Luego Ejecutar pruebas en CustomerValidatorShould 
  
 ![image](https://user-images.githubusercontent.com/57040617/224812916-aa040deb-4231-4d71-b053-767d5cd54f98.png)
-![image](https://user-images.githubusercontent.com/57040617/224820367-8d6d0543-cf30-478e-9e2e-0094e3c8bb32.png)
-
 
 Si la instancia SQL Responde con la cadena de conexión que cambiaron y la base de datos de prueba se puede ver las pruebas ejecutadas y correctas como la imagen siguiente:
  
- ![image](https://user-images.githubusercontent.com/57040617/224812942-e39fa029-49a0-4c4d-a1b6-d492f20df12d.png)
+![image](https://user-images.githubusercontent.com/57040617/224820367-8d6d0543-cf30-478e-9e2e-0094e3c8bb32.png)
 
 Esta prueba de integración confirma, que las Api de consulta de Ordenes y Clientes responde correctamente con HttpStatusCode.OK y confirma el correcto funcionamiento de la base de datos y el DML WebApi_CODIFICO al listar ordenes y productos.
 Así las cosas, como ya tenemos las pruebas correctas podemos cambiar la cadena de conexión para el proyecto WebApi_CODIFICO en appsettings.json en la linea 10 como se hizo en el archivo de pruebas.
